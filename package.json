@@ -1,0 +1,22 @@
+{
+  "name": "hexlet-jest",
+  "version": "0.0.1",
+  "description": "My JEST training project",
+  "main": "reverse.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "JEST",
+    "NPM",
+    "ASSERT",
+    "UNIT",
+    "TEST"
+  ],
+  "author": "valmlord",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
